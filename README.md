@@ -83,4 +83,4 @@ You can also make them changable with args.parser(), to run arbitary codebase (`
 
 
 #### Acknowledge
-This ebatch tool is simplified and customized (for deep learning training) from its [initial version](https://github.com/shenwei356/easy_sbatch). Thanks!
+This ebatch tool is simplified and customized (for deep learning studies) from its [initial version](https://github.com/shenwei356/easy_sbatch). Thanks!
