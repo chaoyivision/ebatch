@@ -1,0 +1,12 @@
+#!/bin/bash
+# this script is provided for reference only (in case you want more features)
+set -x
+#SBATCH --cpus-per-task=$ncpus
+#SBATCH --time=$walltime
+#SBATCH --mem=$mem
+#SBATCH --priority TOP
+#SBATCH --requeue
+#SBATCH --nice=-1
+#SBATCH --mail-user=chaoyizhang@fb.com
+#SBATCH --mail-type=ALL
+#SBATCH --mem-per-gpu 16G
