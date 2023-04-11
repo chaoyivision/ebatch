@@ -74,7 +74,7 @@ You can also make them changable with args.parser(), to run arbitary codebase (`
     * `check`: check my jobs
     * `checkjob`: check all jobs (including others)
     * `checknode`: check all nodes
-    * `cj`: cancel [job_id]
+    * `cj`: cancel [job_id] or "{jid1..jid2}" (kill all jobs in the range from jid1 to jid2)
     * `cj_all`: cancel all my job
     * `sj`: show [job_id]
     * `rj`: rename [job_id] [new_name]
